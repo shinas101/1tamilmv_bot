@@ -1,0 +1,8 @@
+requests
+regex
+bs4
+pyTelegramBotAPI
+aiogram
+lxml
+python-telegram-bot
+pybase64
