@@ -3,7 +3,7 @@
 
 **Gets you magnet link and torrent files of latest movies**
 
-***Feel free to pull requests***
+- ***Feel free to pull requests***
 ## -> how to run ?⚙️
 `python setup.py`
 
